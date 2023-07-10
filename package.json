@@ -8,9 +8,17 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
+    "@mui/material": "^5.13.7",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "axios": "^1.4.0",
+    "moment": "^2.29.4",
     "next": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.1",
+    "redux": "^4.2.1",
+    "redux-saga": "^1.2.3",
+    "styled-components": "^6.0.3"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "5.16.4",
